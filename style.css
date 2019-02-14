@@ -1,0 +1,26 @@
+ form {
+	margin: 44px 0px;
+}
+form input {
+	width: 71%;
+	border: 1px solid #ddd;
+	margin: 19px 0px;
+	padding: 15px;
+}
+ textarea {
+	padding: 10px 20px;
+	border: 1px solid #ddd;
+}
+ form input[type='submit']{cursor:pointer}
+.color {
+	padding: 20px;
+	text-align: center;
+	background-color: green;
+	color: #fff;
+}
+.color1 {
+	background-color: tomato;
+	padding: 20px;
+	color: #fff;
+	text-align: center;
+}
